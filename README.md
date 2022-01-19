@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yeff43
 - 👀 I’m interested in Apps Development
-- 🌱 I’m currently learning Java, JS, HTML&CSS, IONIC, SWIFT, React Native, Kotlin, Android Studio, Python and VSC!
+- 🌱 I’m currently learning Java, C#, Python, HTML & CSS, IONIC, SWIFT, React Native, Kotlin, Android Studio and VSC!
 - 💞️ I’m looking to collaborate on little things to put on practice my knowledges
 - 📫 How to reach me ...
 
