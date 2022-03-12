@@ -18,6 +18,8 @@
 
 <br>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeff43&show_icons=true&locale=en&layout=compact" alt="yeff43" /></p>
+<br>
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=yeff43&show_icons=true&locale=en" alt="yeff43" /></p>
 <br>
 <br>
