@@ -1,12 +1,19 @@
-<h1 align="center">Hi 👋, I'm Yeffry</h1>
-<h3 align="center">A passionate Apps Developer from Spain!</h3>
+<h1 align="center"><b>Hi 👋, I'm Yeffry<b></h1>
+<h3 align="center">A passionate Apps Developer from Spain</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeff43&label=Profile%20views&color=0e75b6&style=flat" alt="yeff43" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+- 🔭 I’m currently working on...**
+- 👯 I’m looking to collaborate on ...**
+- 🤝 I’m looking for help with ...**
+- 🌱 I’m currently learning Angular**
 - 💬 Ask me about **Java, C#, HTML&CSS, Angular, SQL**
-
+ 
+ <br>
+ <br>
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yeff43" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeff43" height="30" width="40" /></a>
