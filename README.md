@@ -5,7 +5,7 @@
 
 - 👋 Hi, I’m @Yeff43
 - 👀 I’m interested in Apps Development
-- 🌱 I’m currently learning Java, C#, HTML & CSS, Angular, TypeScript and Android Studio!
+- 🌱 I’m currently learning Java, C#, HTML & CSS, Angular, TypeScript and Android Studio
 - 💞️ I’m looking to collaborate on little things to put on practice my knowledges
 - 📫 How to reach me ...
 
