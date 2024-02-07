@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on...**
-- 👯 I’m looking to collaborate on ...**
-- 🤝 I’m looking for help with ...**
-- 🌱 I’m currently learning Angular**
-- 💬 Ask me about **Java, C#, HTML&CSS, Angular, SQL**
+- 🔭 I’m currently working on Rudo Apps By Laberit, Spain.
+- 👯 I’m looking to collaborate on projects bugs resolutions....**
+- 🤝 I’m looking for help with Django.
+- 🌱 I’m currently learning JetPack Compose and Django**
+- 💬 Ask me about **Kotlin, Java, HTML&CSS, Angular(IONIC), SQL, MongoDB**
  <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
